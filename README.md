@@ -1,2 +1,3 @@
-# freeOS USB-HDD driver.
+# freeOS USBDD driver.
 
+freeOS USB-HDD support driver source code.
